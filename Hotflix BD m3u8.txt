@@ -1,0 +1,61 @@
+Pagla Flix, Kazi TV, Dora TV, B Stream, Rainbow flix Apnara Douya kore ay link gulo apnader apps a use korben na. Dhonnobad
+
+Telegram Gropu : https://t.me/joinchat/jHjvzO1ZiuA5MWM1
+Facebook Page : https://www.facebook.com/hotflixbd
+Mobile Apps : https://play.google.com/store/apps/details?id=com.hotflixbd.musajeeb
+Smart TV Apps : https://play.google.com/store/apps/details?id=com.hotflixtv.musajeeb
+Web Version : https://hotflix.stream/
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Tsports BD" tvg-logo="https://i.imgur.com/v4v9hsI.png" group-title="Most Popular",Tsports BD
+http://tv.progati.tv:1935/hotflixbd/hotflix/tsports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://i.imgur.com/xN7XBLX.jpg" group-title="Most Popular",Gazi TV
+http://tv.progati.tv:1935/hotflixbd/hotflix/gazi-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://i.imgur.com/Z1siFJh.jpg" group-title="Most Popular",Deepto TV
+http://tv.progati.tv:1935/hotflixbd/hotflix/deepto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://i.imgur.com/MHe0F05.jpg" group-title="Most Popular",Asian TV
+http://tv.progati.tv:1935/hotflixbd/hotflix/asian.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://i.imgur.com/6IOlqFC.jpg" group-title="Most Popular",Zee Bangla
+http://tv.progati.tv:1935/hotflixbd/hotflix/zee-bangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CB: Star Jalsha" tvg-logo="https://i.imgur.com/kW36zj9.jpg" group-title="Kolkata",CB: Star Jalsha
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-jalsha.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CB: Jalsha Movies" tvg-logo="https://i.imgur.com/OKiyBZR.jpg" group-title="Kolkata",CB: Jalsha Movies
+http://tv.progati.tv:1935/hotflixbd/hotflix/jalsha-movies.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CB: Sony Aath" tvg-logo="http://i.imgur.com/xkoqXTs.png" group-title="Kolkata",CB: Sony Aath
+http://tv.progati.tv:1935/hotflixbd/hotflix/sony-aath.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CB: Sangeet Bangla" tvg-logo="https://i.imgur.com/Rbofnrg.jpg" group-title="Kolkata",CB: Sangeet Bangla
+http://tv.progati.tv:1935/hotflixbd/hotflix/sangeet-bangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Six" tvg-logo="https://i.imgur.com/H1Zhd0Z.png" group-title="Sports",SP: Sony Six
+http://tv.progati.tv:1935/hotflixbd/hotflix/sony-six-hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 1" tvg-logo="https://i.imgur.com/8R9g1yY.jpg" group-title="Sports",SP: Sony Ten 1
+http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten1-hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 2" tvg-logo="https://i.imgur.com/lKa6ITU.jpg" group-title="Sports",SP: Sony Ten 2
+http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 3" tvg-logo="https://i.imgur.com/CIPt60Y.png" group-title="Sports",SP: Sony Ten 3
+http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: PTV Sports" tvg-logo="https://i.imgur.com/ZjJWqWb.jpg" group-title="Sports",SP: PTV Sports
+http://tv.progati.tv:1935/hotflixbd/hotflix/ptvsports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1" tvg-logo="http://i.imgur.com/8SaJVC7.png" group-title="Sports",SP: Star Sports 1
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 2" tvg-logo="http://i.imgur.com/PlT4AWm.png" group-title="Sports",SP: Star Sports 2
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 1" tvg-logo="https://i.imgur.com/NnqHQhU.png" group-title="Sports",SP: Star Select 1
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports-select1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 2" tvg-logo="https://i.imgur.com/QsZJc0T.png" group-title="Sports",SP: Star Select 2
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports-select2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: Duronto TV" tvg-logo="https://i.imgur.com/QJflIAb.jpg" group-title="BD Channel",BD: Duronto TV
+http://tv.progati.tv:1935/hotflixbd/hotflix/duronto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD" tvg-logo="https://i.imgur.com/Pd4Prih.jpg" group-title="Hindi",IN: Zee Cinema HD
+http://tv.progati.tv:1935/hotflixbd/hotflix/zee-cinema.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN: Nick Cartoon" tvg-logo="https://i.imgur.com/q64qqYF.png" group-title="English",EN: Nick Cartoon
+http://tv.progati.tv:1935/hotflixbd/hotflix/nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN: Cartoon Network" tvg-logo="https://i.imgur.com/TTL6oj5.png" group-title="English",EN: Cartoon Network
+http://tv.progati.tv:1935/hotflixbd/hotflix/cartoon-network.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: Maasranga TV" tvg-logo="http://i.imgur.com/eJppkkG.jpg" group-title="BD Channel",BD: Maasranga TV
+http://tv.progati.tv:1935/hotflixbd/hotflix/maasranga.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN: Discovery Bangla" tvg-logo="https://i.imgur.com/YJ1wEhm.png" group-title="English",EN: Discovery Bangla
+http://tv.progati.tv:1935/hotflixbd/hotflix/discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN: Star Movies" tvg-logo="https://i.imgur.com/CmGdr4G.png" group-title="English",EN: Star Movies
+http://tv.progati.tv:1935/hotflixbd/hotflix/star-movies-hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="English",TLC
+http://tv.progati.tv:1935/hotflixbd/hotflix/tlc-hd.stream/playlist.m3u8
