@@ -8,55 +8,311 @@ Smart TV Apps : https://play.google.com/store/apps/details?id=com.hotflixtv.musa
 Web Version : https://hotflix.stream/
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Tsports BD" tvg-logo="https://i.imgur.com/v4v9hsI.png" group-title="Most Popular",Tsports BD
-http://tv.progati.tv:1935/hotflixbd/hotflix/tsports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://i.imgur.com/xN7XBLX.jpg" group-title="Most Popular",Gazi TV
-http://tv.progati.tv:1935/hotflixbd/hotflix/gazi-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://i.imgur.com/Z1siFJh.jpg" group-title="Most Popular",Deepto TV
-http://tv.progati.tv:1935/hotflixbd/hotflix/deepto.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://i.imgur.com/MHe0F05.jpg" group-title="Most Popular",Asian TV
-http://tv.progati.tv:1935/hotflixbd/hotflix/asian.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://i.imgur.com/6IOlqFC.jpg" group-title="Most Popular",Zee Bangla
-http://tv.progati.tv:1935/hotflixbd/hotflix/zee-bangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB: Star Jalsha" tvg-logo="https://i.imgur.com/kW36zj9.jpg" group-title="Kolkata",CB: Star Jalsha
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-jalsha.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB: Jalsha Movies" tvg-logo="https://i.imgur.com/OKiyBZR.jpg" group-title="Kolkata",CB: Jalsha Movies
-http://tv.progati.tv:1935/hotflixbd/hotflix/jalsha-movies.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB: Sony Aath" tvg-logo="http://i.imgur.com/xkoqXTs.png" group-title="Kolkata",CB: Sony Aath
-http://tv.progati.tv:1935/hotflixbd/hotflix/sony-aath.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB: Sangeet Bangla" tvg-logo="https://i.imgur.com/Rbofnrg.jpg" group-title="Kolkata",CB: Sangeet Bangla
-http://tv.progati.tv:1935/hotflixbd/hotflix/sangeet-bangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Six" tvg-logo="https://i.imgur.com/H1Zhd0Z.png" group-title="Sports",SP: Sony Six
-http://tv.progati.tv:1935/hotflixbd/hotflix/sony-six-hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 1" tvg-logo="https://i.imgur.com/8R9g1yY.jpg" group-title="Sports",SP: Sony Ten 1
-http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten1-hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 2" tvg-logo="https://i.imgur.com/lKa6ITU.jpg" group-title="Sports",SP: Sony Ten 2
-http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Ten 3" tvg-logo="https://i.imgur.com/CIPt60Y.png" group-title="Sports",SP: Sony Ten 3
-http://tv.progati.tv:1935/hotflixbd/hotflix/sony-ten3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: PTV Sports" tvg-logo="https://i.imgur.com/ZjJWqWb.jpg" group-title="Sports",SP: PTV Sports
-http://tv.progati.tv:1935/hotflixbd/hotflix/ptvsports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1" tvg-logo="http://i.imgur.com/8SaJVC7.png" group-title="Sports",SP: Star Sports 1
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 2" tvg-logo="http://i.imgur.com/PlT4AWm.png" group-title="Sports",SP: Star Sports 2
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 1" tvg-logo="https://i.imgur.com/NnqHQhU.png" group-title="Sports",SP: Star Select 1
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports-select1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 2" tvg-logo="https://i.imgur.com/QsZJc0T.png" group-title="Sports",SP: Star Select 2
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-sports-select2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BD: Duronto TV" tvg-logo="https://i.imgur.com/QJflIAb.jpg" group-title="BD Channel",BD: Duronto TV
-http://tv.progati.tv:1935/hotflixbd/hotflix/duronto.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD" tvg-logo="https://i.imgur.com/Pd4Prih.jpg" group-title="Hindi",IN: Zee Cinema HD
-http://tv.progati.tv:1935/hotflixbd/hotflix/zee-cinema.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EN: Nick Cartoon" tvg-logo="https://i.imgur.com/q64qqYF.png" group-title="English",EN: Nick Cartoon
-http://tv.progati.tv:1935/hotflixbd/hotflix/nick.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EN: Cartoon Network" tvg-logo="https://i.imgur.com/TTL6oj5.png" group-title="English",EN: Cartoon Network
-http://tv.progati.tv:1935/hotflixbd/hotflix/cartoon-network.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BD: Maasranga TV" tvg-logo="http://i.imgur.com/eJppkkG.jpg" group-title="BD Channel",BD: Maasranga TV
-http://tv.progati.tv:1935/hotflixbd/hotflix/maasranga.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EN: Discovery Bangla" tvg-logo="https://i.imgur.com/YJ1wEhm.png" group-title="English",EN: Discovery Bangla
-http://tv.progati.tv:1935/hotflixbd/hotflix/discovery.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EN: Star Movies" tvg-logo="https://i.imgur.com/CmGdr4G.png" group-title="English",EN: Star Movies
-http://tv.progati.tv:1935/hotflixbd/hotflix/star-movies-hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="English",TLC
-http://tv.progati.tv:1935/hotflixbd/hotflix/tlc-hd.stream/playlist.m3u8
+#EXTINF:-1,SAT>IP NDTV India
+http://103.157.237.18:8000/play/1011
+#EXTINF:-1,ENC-13 Sony SET
+http://103.157.237.18:8000/play/333
+#EXTINF:-1,ENC-15 Nagorik TV
+http://103.157.237.18:8000/play/133
+#EXTINF:-1,IRD-2 BBC World News
+http://103.157.237.18:8000/play/1001
+#EXTINF:-1,QAM Service Unavailable
+http://103.157.237.18:8000/play/1866
+#EXTINF:-1,INT-S MBC 2 HD
+http://103.157.237.18:8000/play/733
+#EXTINF:-1,ENC-7 T Sports HD
+http://103.157.237.18:8000/play/630
+#EXTINF:-1,IRD-2 MN+ HD
+http://103.157.237.18:8000/play/730
+#EXTINF:-1,SAT>IP  Sony Wah
+http://103.157.237.18:8000/play/340
+#EXTINF:-1,IRD-3 Star Sports Select 1
+http://103.157.237.18:8000/play/607
+#EXTINF:-1,IRD-3 Zee Zest
+http://103.157.237.18:8000/play/508
+#EXTINF:-1,IRD-2 Star Gold HD
+http://103.157.237.18:8000/play/308
+#EXTINF:-1,IRD-2 NDTV Profit Prime
+http://103.157.237.18:8000/play/1010
+#EXTINF:-1,IRD-3 Zee Classic
+http://103.157.237.18:8000/play/324
+#EXTINF:-1,IRD-2 Sony BBC Earth HD
+http://103.157.237.18:8000/play/507
+#EXTINF:-1,IRD-2 Hungama
+http://103.157.237.18:8000/play/407
+#EXTINF:-1,IRD-2 Star Gold
+http://103.157.237.18:8000/play/307
+#EXTINF:-1,ENC-6 Zee Bangla Cinema
+http://103.157.237.18:8000/play/207
+#EXTINF:-1,SAT>IP  Zee Anmol Cinema
+http://103.157.237.18:8000/play/325
+#EXTINF:-1,IRD-2 Animal Planet
+http://103.157.237.18:8000/play/525
+#EXTINF:-1,SAT>IP  Colors Rishtey
+http://103.157.237.18:8000/play/346
+#EXTINF:-1,IRD-3 Star Sports Select 1 HD
+http://103.157.237.18:8000/play/608
+#EXTINF:-1,IRD-3 Zee Cafe
+http://103.157.237.18:8000/play/708
+#EXTINF:-1,IRD-2 Movies Now HD
+http://103.157.237.18:8000/play/725
+#EXTINF:-1,INT-S HBO Hits HD
+http://103.157.237.18:8000/play/740
+#EXTINF:-1,IRD-2 Al Jazeera English
+http://103.157.237.18:8000/play/1005
+#EXTINF:-1,IRD-2 Nick HD+
+http://103.157.237.18:8000/play/413
+#EXTINF:-1,IRD-2 Bindass
+http://103.157.237.18:8000/play/313
+#EXTINF:-1,ENC-15 Sony Ten 2
+http://103.157.237.18:8000/play/613
+#EXTINF:-1,ENC-6 Colors Bangla HD
+http://103.157.237.18:8000/play/213
+#EXTINF:-1,ENC-13 Sony Aath
+http://103.157.237.18:8000/play/210
+#EXTINF:-1,IRD-3 Sony SET HD
+http://103.157.237.18:8000/play/334
+#EXTINF:-1,IRD-3 Sony PIX
+http://103.157.237.18:8000/play/710
+#EXTINF:-1,IRD-2 Star Sports Select 2 HD
+http://103.157.237.18:8000/play/610
+#EXTINF:-1,IRD-2 Animax HD
+http://103.157.237.18:8000/play/410
+#EXTINF:-1,IRD-2 Sony Max 2
+http://103.157.237.18:8000/play/339
+#EXTINF:-1,ENC-13 Sony SAB
+http://103.157.237.18:8000/play/335
+#EXTINF:-1,IRD-2 Duronto TV HD
+http://103.157.237.18:8000/play/132
+#EXTINF:-1,INT-S MBC Max HD
+http://103.157.237.18:8000/play/734
+#EXTINF:-1,IRD-3 & Xplor HD
+http://103.157.237.18:8000/play/331
+#EXTINF:-1,IRD-2 Sony Ten 3 HD
+http://103.157.237.18:8000/play/616
+#EXTINF:-1,IRD-2 UTV Movies
+http://103.157.237.18:8000/play/316
+#EXTINF:-1,INT-S HBO HD
+http://103.157.237.18:8000/play/739
+#EXTINF:-1,INT-S MBC Action HD
+http://103.157.237.18:8000/play/735
+#EXTINF:-1,SAT>IP  DD Sports
+http://103.157.237.18:8000/play/623
+#EXTINF:-1,IRD-3 NDTV 24x7
+http://103.157.237.18:8000/play/1009
+#EXTINF:-1,IRD-2 Disney Channel
+http://103.157.237.18:8000/play/404
+#EXTINF:-1,IRD-2 Star Bharat HD
+http://103.157.237.18:8000/play/304
+#EXTINF:-1,ENC-8 Star Sports 2 HD
+http://103.157.237.18:8000/play/604
+#EXTINF:-1,IRD-3 Fox Life HD
+http://103.157.237.18:8000/play/504
+#EXTINF:-1,IRD-2 Euro Sports HD
+http://103.157.237.18:8000/play/620
+#EXTINF:-1,IRD-2 CNN
+http://103.157.237.18:8000/play/1002
+#EXTINF:-1,IRD-2 Comedy Central HD
+http://103.157.237.18:8000/play/723
+#EXTINF:-1,ENC-6 History TV18 HD
+http://103.157.237.18:8000/play/520
+#EXTINF:-1,ENC-5 Colors HD
+http://103.157.237.18:8000/play/342
+#EXTINF:-1,IRD-3 Star Sports 3
+http://103.157.237.18:8000/play/605
+#EXTINF:-1,SAT>IP  Star Utsav
+http://103.157.237.18:8000/play/305
+#EXTINF:-1,IRD-2 Disney International HD
+http://103.157.237.18:8000/play/405
+#EXTINF:-1,IRD-2 Star Movies
+http://103.157.237.18:8000/play/704
+#EXTINF:-1,IRD-2 Miniplex HD
+http://103.157.237.18:8000/play/326
+#EXTINF:-1,IRD-2 Animal Planet HD
+http://103.157.237.18:8000/play/526
+#EXTINF:-1,IRD-2 Star Movies HD
+http://103.157.237.18:8000/play/705
+#EXTINF:-1,SAT>IP  MTV Beats
+http://103.157.237.18:8000/play/805
+#EXTINF:-1,ENC-13 Sony MAX
+http://103.157.237.18:8000/play/337
+#EXTINF:-1,ENC-7 VH1 HD
+http://103.157.237.18:8000/play/806
+#EXTINF:-1,IRD-3 UTV HD
+http://103.157.237.18:8000/play/314
+#EXTINF:-1,IRD-3 Investigation Discovery HD
+http://103.157.237.18:8000/play/514
+#EXTINF:-1,IRD-2 Sony MAX HD
+http://103.157.237.18:8000/play/338
+#EXTINF:-1,IRD-2 AXN HD East Asia
+http://103.157.237.18:8000/play/737
+#EXTINF:-1,IRD-3 Colors Bangla Cinema
+http://103.157.237.18:8000/play/214
+#EXTINF:-1,ENC-15 Sony Ten 3
+http://103.157.237.18:8000/play/615
+#EXTINF:-1,IRD-2 TLC HD
+http://103.157.237.18:8000/play/515
+#EXTINF:-1,IRD-3 Bangla Hitz
+http://103.157.237.18:8000/play/211
+#EXTINF:-1,IRD-2 Star Gold Select
+http://103.157.237.18:8000/play/311
+#EXTINF:-1,IRD-2 Sun Bangla
+http://103.157.237.18:8000/play/215
+#EXTINF:-1,IRD-3 Discovery Science
+http://103.157.237.18:8000/play/511
+#EXTINF:-1,ENC-15 Sony Ten 1
+http://103.157.237.18:8000/play/611
+#EXTINF:-1,INT-S Warner TV
+http://103.157.237.18:8000/play/738
+#EXTINF:-1,IRD-2 Star Gold Select HD
+http://103.157.237.18:8000/play/312
+#EXTINF:-1,IRD-3 Discovery Turbo
+http://103.157.237.18:8000/play/512
+#EXTINF:-1,ENC-18 Nick Junior
+http://103.157.237.18:8000/play/412
+#EXTINF:-1,IRD-3 Sony Ten 1 HD
+http://103.157.237.18:8000/play/612
+#EXTINF:-1,ENC-13 Star Bharat
+http://103.157.237.18:8000/play/303
+#EXTINF:-1,ENC-17 Sonic
+http://103.157.237.18:8000/play/403
+#EXTINF:-1,IRD-2 Nat Geo Wild HD
+http://103.157.237.18:8000/play/503
+#EXTINF:-1,IRD-2 Star Sports 2
+http://103.157.237.18:8000/play/603
+#EXTINF:-1,IRD-3 & Flix HD
+http://103.157.237.18:8000/play/716
+#EXTINF:-1,ENC-13 Jalsha Movies
+http://103.157.237.18:8000/play/203
+#EXTINF:-1,IRD-2 Star World Premiere HD
+http://103.157.237.18:8000/play/703
+#EXTINF:-1,IRD-3 Zoom
+http://103.157.237.18:8000/play/803
+#EXTINF:-1,IRD-2 Good Times
+http://103.157.237.18:8000/play/529
+#EXTINF:-1,IRD-3 Zee Cinema HD
+http://103.157.237.18:8000/play/321
+#EXTINF:-1,IRD-3 & Pictures
+http://103.157.237.18:8000/play/329
+#EXTINF:-1,ENC-6 Colors Infinity HD
+http://103.157.237.18:8000/play/721
+#EXTINF:-1,ENC-8 Gazi TV HD
+http://103.157.237.18:8000/play/122
+#EXTINF:-1,IRD-3 Marvel HQ
+http://103.157.237.18:8000/play/406
+#EXTINF:-1,IRD-3 Zee Action
+http://103.157.237.18:8000/play/322
+#EXTINF:-1,IRD-2 Zee Bangla HD
+http://103.157.237.18:8000/play/206
+#EXTINF:-1,IRD-3 VH1
+http://103.157.237.18:8000/play/829
+#EXTINF:-1,ENC-7 Zee TV
+http://103.157.237.18:8000/play/317
+#EXTINF:-1,IRD-3 Discovery Kids
+http://103.157.237.18:8000/play/417
+#EXTINF:-1,ENC-5 MTV HD+
+http://103.157.237.18:8000/play/802
+#EXTINF:-1,ENC-13 Sony SIX
+http://103.157.237.18:8000/play/617
+#EXTINF:-1,IRD-3 Somoy TV
+http://103.157.237.18:8000/play/117
+#EXTINF:-1,IRD-3 Disney Junior
+http://103.157.237.18:8000/play/418
+#EXTINF:-1,IRD-3 Zee TV HD
+http://103.157.237.18:8000/play/318
+#EXTINF:-1,IRD-3 Sony SIX HD
+http://103.157.237.18:8000/play/618
+#EXTINF:-1,ENC-15 Independet TV
+http://103.157.237.18:8000/play/118
+#EXTINF:-1,IRD-2 Star Movies Select HD
+http://103.157.237.18:8000/play/707
+#EXTINF:-1,IRD-2 Discovery HD World
+http://103.157.237.18:8000/play/509
+#EXTINF:-1,SAT>IP  Star Utsav Movies
+http://103.157.237.18:8000/play/306
+#EXTINF:-1,IRD-2 & Prive HD
+http://103.157.237.18:8000/play/718
+#EXTINF:-1,IRD-2 Jalsha Movies HD
+http://103.157.237.18:8000/play/204
+#EXTINF:-1,ENC-14 Star Plus
+http://103.157.237.18:8000/play/301
+#EXTINF:-1,ENC-15 Maasranga TV HD
+http://103.157.237.18:8000/play/119
+#EXTINF:-1,ENC-15 Channel 9
+http://103.157.237.18:8000/play/120
+#EXTINF:-1,SAT>IP Sony Pal
+http://103.157.237.18:8000/play/341
+#EXTINF:-1,SAT>IP  Colors CIneplex Bollywood
+http://103.157.237.18:8000/play/343
+#EXTINF:-1,INT-S MBC Bollywood HD
+http://103.157.237.18:8000/play/347
+#EXTINF:-1,ENC-8 Zee Bollywood
+http://103.157.237.18:8000/play/323
+#EXTINF:-1,ENC-5 Nick
+http://103.157.237.18:8000/play/411
+#EXTINF:-1,ENC-8 Star Sports 1 HD
+http://103.157.237.18:8000/play/602
+#EXTINF:-1,IRD-3 & Pictures HD
+http://103.157.237.18:8000/play/330
+#EXTINF:-1,INT-S Cinemax HD
+http://103.157.237.18:8000/play/742
+#EXTINF:-1,IRD-2 UTV Action
+http://103.157.237.18:8000/play/315
+#EXTINF:-1,IRD-3 Travel XP
+http://103.157.237.18:8000/play/527
+#EXTINF:-1,ENC-7 Zee Bangla
+http://103.157.237.18:8000/play/205
+#EXTINF:-1,IRD-3 Sony PIX HD
+http://103.157.237.18:8000/play/711
+#EXTINF:-1,ENC-5 Zee Cinema
+http://103.157.237.18:8000/play/320
+#EXTINF:-1,IRD-2 Colors Cineplex HD
+http://103.157.237.18:8000/play/345
+#EXTINF:-1,IRD-2 & TV HD
+http://103.157.237.18:8000/play/328
+#EXTINF:-1,IRD-3 & Flix
+http://103.157.237.18:8000/play/715
+#EXTINF:-1,IRD-2 Madani TV Bangla
+http://103.157.237.18:8000/play/902
+#EXTINF:-1,IRD-2 Star Sports First
+http://103.157.237.18:8000/play/628
+#EXTINF:-1,INT-S HBO Signature HD
+http://103.157.237.18:8000/play/741
+#EXTINF:-1,IRD-2 Romedy Now HD
+http://103.157.237.18:8000/play/727
+#EXTINF:-1,IRD-3 Deepto TV HD
+http://103.157.237.18:8000/play/128
+#EXTINF:-1,IRD-2 MNX HD
+http://103.157.237.18:8000/play/713
+#EXTINF:-1,SAT>IP  Rishtey Cineplex
+http://103.157.237.18:8000/play/a004
+#EXTINF:-1,ENC-13 Star Jalsha
+http://103.157.237.18:8000/play/201
+#EXTINF:-1,ENC-18 National Geographic Channel
+http://103.157.237.18:8000/play/501
+#EXTINF:-1,ENC-17 Sony YaY!
+http://103.157.237.18:8000/play/409
+#EXTINF:-1,IRD-2 Star World HD
+http://103.157.237.18:8000/play/701
+#EXTINF:-1,IRD-2 Star Sports 1 Bangla
+http://103.157.237.18:8000/play/601
+#EXTINF:-1,IRD-2 Aaj Tak HD
+http://103.157.237.18:8000/play/1003
+#EXTINF:-1,IRD-2 Cartoon Network
+http://103.157.237.18:8000/play/401
+#EXTINF:-1,IRD-2 Star Jalsha HD
+http://103.157.237.18:8000/play/202
+#EXTINF:-1,IRD-3 Star Plus HD
+http://103.157.237.18:8000/play/302
+#EXTINF:-1,IRD-2 Zee Cafe HD
+http://103.157.237.18:8000/play/709
+#EXTINF:-1,IRD-2 MTV
+http://103.157.237.18:8000/play/801
+#EXTINF:-1,IRD-3 Star Gold 2
+http://103.157.237.18:8000/play/309
+#EXTINF:-1,IRD-3 Disney Stories
+http://103.157.237.18:8000/play/442
+#EXTINF:-1,IRD-3 Pogo
+http://103.157.237.18:8000/play/402
+#EXTINF:-1,IRD-3 National Geographic Channel HD
+http://103.157.237.18:8000/play/502
